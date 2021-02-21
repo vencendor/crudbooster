@@ -49,4 +49,5 @@
 - [How To Make A Custom View Of Add Method](./how-custom-view-add.md)
 - [How To Make A Custom View Of Edit Method](./how-to-custom-edit-view.md)
 - [How To Make A Custom View Of Detail Method](./how-to-custom-detail-view.md)
+- [How To Make API requests](./how-to-make-api-request.md)
 - [Helpers](./helpers.md)
